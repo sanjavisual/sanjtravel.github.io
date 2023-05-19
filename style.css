@@ -1,0 +1,29 @@
+* {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.text {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+body {
+    background-color: rgb(47, 47, 47);
+}
+
+.sanj {
+    color: crimson;
+}
+
+.kartus {
+    margin-top: 20px;
+
+
+
+}
+@media screen and (max-width:840px) {
+    .kartu {
+        margin-top: 20px;
+    }
+}
